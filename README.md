@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed 👋
 
-👨‍💼 Business Intelligence Analyst with an engineering background and expertise in marketing, financial modeling, and business planning.
+👨‍💼 Business Intelligence Analyst with an engineering background and expertise in marketing, financial modeling and business planning.
 
 🎯 Skilled in leading cross-functional teams, managing stakeholders, and driving data-driven strategic decisions.
 
