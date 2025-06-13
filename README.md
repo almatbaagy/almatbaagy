@@ -1,8 +1,8 @@
 # Hi, I'm Mohamed 👋
 
-👨‍💼 Business Intelligence Analyst
+👨‍💼 Business Intelligence Analyst with an engineering background and expertise in marketing, financial modeling, and business planning.
 
-🎯 Focused on Business Intelligence, Data Analytics, and Strategic Planning.
+🎯 Skilled in leading cross-functional teams, managing stakeholders, and driving data-driven strategic decisions.
 
 📊 Skills: Excel, Tableau, Power BI, SQL, Python, Knime Analytics, MS office 
 📚 Graduate of Electrical & Computer Engineering – Menoufia University
